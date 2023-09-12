@@ -19,8 +19,16 @@
 </div>
 
 ### :man_technologist: About Me :
-
+I am a developer with a passion for developing
+mobile applications using Kotlin and Flutter, a popular open-source framework for
+building high-performance, cross-platform mobile apps and websites. With my
+expertise in backend development using Node.js and machine learning, I have the ability
+to create dynamic and efficient applications that meet the needs of businesses and
+individuals alike
 ### :hammer_and_wrench: Languages and Tools :
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
