@@ -11,7 +11,7 @@
   <a href="https://youtube.com/@tarkeem8732?si=rY1lZ4E_4tGeqOsf">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://youtube.com/@tarkeem8732?si=rY1lZ4E_4tGeqOsf">
+  <a href="https://tarkeem.github.io/tarkeem.githup.io/#/">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)"/>
   </a>
   
